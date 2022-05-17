@@ -84,7 +84,6 @@ h1 {
 
 .search-box {
   display: inline-block;
-  border: 1px solid var(--grey);
   border-radius: 15px;
   width: auto;
 }
@@ -116,7 +115,7 @@ h1 {
   cursor: pointer;
 }
 
-.search-box button .fa-search {
+.search-box button.fa-search {
   display: none;
 }
 
